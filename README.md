@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raef Orpheus</h1>
-<h3 align="center">A passionate Designer & Frontend developer</h3>
+<h1 align="left">Hi 👋, I'm Raef Orpheus</h1>
+<h3 align="left">A passionate Designer & Frontend developer</h3>
 
 - 👀 I'm intrested in building useful apps and open-source designs
 
