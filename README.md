@@ -4,9 +4,9 @@
 
 - 👀 I'm intrested in building useful apps and open-source designs
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning
 
-- 📫 How to reach me **Orpheus@skiff.com**
+- 📫 How to reach me **hello@raef.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
