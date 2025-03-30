@@ -4,7 +4,7 @@
 
 - 👀 I'm intrested in building useful apps and open-source designs
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning GO & Next.JS
 
 - 📫 How to reach me **hello@raef.me**
 
