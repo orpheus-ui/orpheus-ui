@@ -1,5 +1,15 @@
 # Hi 👋, I'm Raef Orpheus
 
+## Table of Contents
+- [About Me](#about-me)
+- [What I'm Currently Working On](#-what-im-currently-working-on)
+- [I'm Currently Learning](#-im-currently-learning)
+- [Skills](#-skills)
+- [Projects](#-projects)
+- [Looking For](#-looking-for)
+- [How to Reach Me](#-how-to-reach-me)
+- [Connect with Me](#-connect-with-me)
+
 ## About Me
 I'm a passionate Designer & Frontend developer dedicated to creating useful applications and open-source designs. I blend aesthetic sensibility with technical implementation to build intuitive and visually appealing user experiences.
 
@@ -16,7 +26,6 @@ I'm a passionate Designer & Frontend developer dedicated to creating useful appl
 
 ### Design
 - UI/UX Design
-- Audio Plugin GUI
 - Interface Design
 - Visual Design
 - Prototyping
@@ -46,9 +55,3 @@ Feel free to check out my repositories to see what I've been working on! I'm con
 <a href="https://instagram.com/orpheus.ui" target="blank"><img align="center" src="https://github.com/orpheus-ui/orpheus-ui/raw/main/Instagram.svg" alt="orpheus.ui" height="30" width="40" /></a>
 <a href="https://dribbble.com/OrpheusUI" target="blank"><img align="center" src="https://github.com/orpheus-ui/orpheus-ui/raw/main/dribbble.svg" alt="orpheusui" height="30" width="40" /></a>
 </p>
-
----
-
-⭐️ If you find any of my projects interesting or useful, consider giving them a star! ⭐️
-
-💬 Feel free to reach out if you have questions or just want to chat about design and development!
