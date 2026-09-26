@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ra%C3%A8f%20Orpheus&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Designer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20Music%20Producer&descAlignY=58&descSize=18&animation=fadeIn" alt="Raèf Orpheus" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ra%C3%A8f%20Orpheus&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Music%20Producer&descAlignY=58&descSize=18&animation=fadeIn" alt="Raèf Orpheus" />
 </p>
 
 <p align="center">
   <a href="https://github.com/orpheus-ui">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Designing+intuitive%2C+beautiful+interfaces;Building+with+React%2C+Next.js+%26+Astro;Learning+Go+for+fast+backends;Shipping+on+Cloudflare+Workers" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-stack+apps%2C+design+to+deploy;Backends+on+Supabase+%26+Postgres;Self-hosting+with+Coolify+%26+Docker;Edge+APIs+on+Cloudflare+Workers;Frontends+in+React%2C+Next.js+%26+Astro" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,18 +20,28 @@
 
 ### 👋 About me
 
-I'm a **designer & frontend developer** who blends aesthetic sensibility with solid engineering to build intuitive, visually polished products — and I publish open-source design resources along the way. Outside of code, I produce music 🎵.
+I'm a **full-stack developer & designer** who takes products from Figma to production: polished interfaces, solid backends, and self-hosted infrastructure I deploy and run myself. Outside of code, I produce music 🎵.
 
-- 🚀 **Working on** — user-friendly apps with modern frontend tooling and open-source design resources
-- 🌱 **Learning** — **Go** for performant backends and **Next.js** for SSR/SSG
-- 🤝 **Looking for** — collaborations, open-source contributions, and hard design/dev problems
+- 🧱 **Full-stack** — end-to-end apps with TypeScript, React/Next.js and Astro on the front, Supabase + Postgres behind
+- ⚙️ **Backend & infra** — APIs, auth, databases and edge workers; self-hosting and deploying with **Coolify** + Docker
+- 🎨 **Design** — UI/UX, design systems, and prototyping that ship as real product
+- 🌱 **Learning** — **Go** for fast, lean backend services
 - 📫 **Reach me** — [hello@raef.me](mailto:hello@raef.me)
 
 ### 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,nextjs,astro,svelte,tailwind&perline=10" alt="Frontend & design" /><br/>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,python,cloudflare,vercel,git,github,vscode,linux,apple&perline=10" alt="Backend & tooling" />
+  <b>Frontend & design</b><br/>
+  <img src="https://skillicons.dev/icons?i=figma,ts,js,react,nextjs,astro,svelte,tailwind,html,css&perline=10" alt="Frontend & design" />
+</p>
+<p align="center">
+  <b>Backend & data</b><br/>
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,nodejs,bun,go,python,graphql,prisma,redis&perline=10" alt="Backend & data" />
+</p>
+<p align="center">
+  <b>DevOps & deployment</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,nginx,linux,git,github,githubactions&perline=10" alt="DevOps & deployment" /><br/>
+  <img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify" />
 </p>
 
 <details>
@@ -42,6 +52,7 @@ UI/UX Design · Interface Design · Visual Design · Prototyping · Design Syste
 
 </details>
 
+<!-- Featured projects — hidden for now, uncomment to re-enable
 ### 📌 Featured projects
 
 | Project | Description | Stack |
@@ -50,6 +61,7 @@ UI/UX Design · Interface Design · Visual Design · Prototyping · Design Syste
 | [**astro-raef**](https://github.com/orpheus-ui/astro-raef) | Personal blog & portfolio | ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) |
 | [**hashnode-headless**](https://github.com/orpheus-ui/hashnode-headless) | Blog starter kit using Hashnode as a headless CMS via GraphQL | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
 | [**go-basics-course**](https://github.com/orpheus-ui/go-basics-course) | Tracking my Go learning journey | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+-->
 
 ### 📊 GitHub stats
 
