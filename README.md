@@ -24,15 +24,15 @@ I'm a **full-stack developer & designer** who takes products from Figma to produ
 
 - 🧱 **Full-stack** — end-to-end apps with TypeScript, React/Next.js and Astro on the front, Supabase + Postgres behind
 - ⚙️ **Backend & infra** — APIs, auth, databases and edge workers; self-hosting and deploying with **Coolify** + Docker
-- 🎨 **Design** — UI/UX, design systems, and prototyping that ship as real product
+- 🎨 **Design** — UI/UX, design systems, and GUIs for audio plugins & VSTs that ship as real product
 - 🌱 **Learning** — **Go** for fast, lean backend services
 - 📫 **Reach me** — [hello@raef.me](mailto:hello@raef.me)
 
 ### 🧰 Tech stack
 
 <p align="center">
-  <b>Frontend & design</b><br/>
-  <img src="https://skillicons.dev/icons?i=figma,ts,js,react,nextjs,astro,svelte,tailwind,html,css&perline=10" alt="Frontend & design" />
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,svelte,tailwind,html,css,figma&perline=10" alt="Frontend" />
 </p>
 <p align="center">
   <b>Backend & data</b><br/>
@@ -44,13 +44,23 @@ I'm a **full-stack developer & designer** who takes products from Figma to produ
   <img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify" />
 </p>
 
-<details>
-<summary><b>🎨 Design skills</b></summary>
-<br/>
+### 🎨 Design
 
-UI/UX Design · Interface Design · Visual Design · Prototyping · Design Systems · Responsive Web Design · Frontend Architecture
+<p align="center">
+  <b>Product & interface</b><br/>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-7C3AED?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
+  <img src="https://img.shields.io/badge/Design%20Systems-6D28D9?style=for-the-badge&logo=storybook&logoColor=white" alt="Design Systems" />
+  <img src="https://img.shields.io/badge/Prototyping-5B21B6?style=for-the-badge&logo=framer&logoColor=white" alt="Prototyping" />
+  <img src="https://img.shields.io/badge/Visual%20Design-4C1D95?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Visual Design" />
+</p>
+<p align="center">
+  <b>Audio software</b><br/>
+  <img src="https://img.shields.io/badge/Audio%20Plugin%20UI-EC4899?style=for-the-badge&logo=audiomack&logoColor=white" alt="Audio Plugin UI" />
+  <img src="https://img.shields.io/badge/VST%20GUI-DB2777?style=for-the-badge&logo=steinberg&logoColor=white" alt="VST GUI" />
+  <img src="https://img.shields.io/badge/Motion%20%26%20Interaction-BE185D?style=for-the-badge&logo=rive&logoColor=white" alt="Motion & Interaction" />
+</p>
 
-</details>
+> From SaaS dashboards to knobs, meters and waveforms, I design interfaces that feel as good as they look, including GUIs for audio plugins and VST instruments.
 
 <!-- Featured projects — hidden for now, uncomment to re-enable
 ### 📌 Featured projects
