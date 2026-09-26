@@ -44,30 +44,25 @@ UI/UX Design · Interface Design · Visual Design · Prototyping · Design Syste
 
 ### 📌 Featured projects
 
-<p align="center">
-  <a href="https://github.com/orpheus-ui/doh-proxy-worker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=orpheus-ui&repo=doh-proxy-worker&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="doh-proxy-worker" /></a>
-  <a href="https://github.com/orpheus-ui/Claude-Red"><img src="https://github-readme-stats.vercel.app/api/pin/?username=orpheus-ui&repo=Claude-Red&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Claude-Red" /></a>
-  <a href="https://github.com/orpheus-ui/astro-raef"><img src="https://github-readme-stats.vercel.app/api/pin/?username=orpheus-ui&repo=astro-raef&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="astro-raef" /></a>
-  <a href="https://github.com/orpheus-ui/go-basics-course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=orpheus-ui&repo=go-basics-course&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="go-basics-course" /></a>
-</p>
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**doh-proxy-worker**](https://github.com/orpheus-ui/doh-proxy-worker) | High-performance DNS-over-HTTPS proxy with multi-provider load balancing, caching & failover | ![Cloudflare Workers](https://img.shields.io/badge/-Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**astro-raef**](https://github.com/orpheus-ui/astro-raef) | Personal blog & portfolio | ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) |
+| [**hashnode-headless**](https://github.com/orpheus-ui/hashnode-headless) | Blog starter kit using Hashnode as a headless CMS via GraphQL | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
+| [**go-basics-course**](https://github.com/orpheus-ui/go-basics-course) | Tracking my Go learning journey | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 
 ### 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=orpheus-ui&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orpheus-ui&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=orpheus-ui&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orpheus-ui&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=orpheus-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orpheus-ui/orpheus-ui/output/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/orpheus-ui/orpheus-ui/output/profile-3d-contrib/profile-gitblock.svg" />
+    <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/orpheus-ui/orpheus-ui/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
 </p>
 
 ### 🐍 Contribution snake
