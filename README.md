@@ -51,7 +51,7 @@ I'm a **full-stack developer & designer** who takes products from Figma to produ
   <img src="https://img.shields.io/badge/UI%2FUX%20Design-7C3AED?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
   <img src="https://img.shields.io/badge/Design%20Systems-6D28D9?style=for-the-badge&logo=storybook&logoColor=white" alt="Design Systems" />
   <img src="https://img.shields.io/badge/Prototyping-5B21B6?style=for-the-badge&logo=framer&logoColor=white" alt="Prototyping" />
-  <img src="https://img.shields.io/badge/Visual%20Design-4C1D95?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Visual Design" />
+  <img src="https://img.shields.io/badge/Visual%20Design-4C1D95?style=for-the-badge&logo=sketch&logoColor=white" alt="Visual Design" />
 </p>
 <p align="center">
   <b>Audio software</b><br/>
