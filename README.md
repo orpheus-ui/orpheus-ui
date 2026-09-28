@@ -1,10 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ra%C3%A8f%20Orpheus&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Music%20Producer&descAlignY=58&descSize=18&animation=fadeIn" alt="Raèf Orpheus" /></picture>
-</p>
-
-<p align="center">
-  <picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-stack+apps%2C+design+to+deploy;Backends+on+Supabase+%26+Postgres;Self-hosting+with+Coolify+%26+Docker;Edge+APIs+on+Cloudflare+Workers;Frontends+in+React%2C+Next.js+%26+Astro" alt="Typing SVG" /></picture>
+  <picture><img src="assets/terminal.svg" alt="$ whoami — Raèf Orpheus, full-stack developer · designer · music producer" width="680" /></picture>
 </p>
 
 <p align="center">
@@ -77,14 +73,6 @@ I'm a **full-stack developer & designer** who takes products from Figma to produ
   <picture><img src="https://streak-stats.demolab.com?user=orpheus-ui&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" /></picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orpheus-ui/orpheus-ui/output/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/orpheus-ui/orpheus-ui/output/profile-3d-contrib/profile-gitblock.svg" />
-    <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/orpheus-ui/orpheus-ui/output/profile-3d-contrib/profile-night-rainbow.svg" />
-  </picture>
-</p>
-
 ### 🐍 Contribution snake
 
 <p align="center">
@@ -107,5 +95,5 @@ I'm a **full-stack developer & designer** who takes products from Figma to produ
 
 <!-- Footer -->
 <p align="center">
-  <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="" /></picture>
+  <sub><code>raef@orpheus:~$ echo "thanks for stopping by" && exit 0</code></sub>
 </p>

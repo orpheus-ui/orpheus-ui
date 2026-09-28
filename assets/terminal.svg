@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="316" viewBox="0 0 680 316" role="img" aria-label="Terminal: Raèf Orpheus, full-stack developer and designer">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; fill: #c9d1d9; white-space: pre; }
+    .user { fill: #7ee787; }
+    .path { fill: #79c0ff; }
+    .dim { fill: #8b949e; }
+    .accent { fill: #d2a8ff; }
+    .key { fill: #ffa657; }
+    .title { fill: #8b949e; font-size: 13px; }
+    .line { opacity: 0; animation: show 0.25s ease-out forwards; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes show { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+    @keyframes blink { 50% { fill-opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .line { opacity: 1; animation: none; }
+      .cursor { animation: none; }
+    }
+  </style>
+
+  <rect x="0.5" y="0.5" width="679" height="315" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0.5 36 V10.5 a10 10 0 0 1 10 -10 H669.5 a10 10 0 0 1 10 10 V36 Z" fill="#161b22"/>
+  <line x1="0.5" y1="36" x2="679.5" y2="36" stroke="#30363d"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <text x="340" y="23" text-anchor="middle" class="title">raef@orpheus: ~ — zsh</text>
+
+  <text x="24" y="70" class="line" style="animation-delay:0.2s"><tspan class="user">raef@orpheus</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$</tspan> whoami</text>
+  <text x="24" y="96" class="line" style="animation-delay:0.7s"><tspan class="accent">Raèf Orpheus</tspan> <tspan class="dim">//</tspan> full-stack developer · designer · music producer</text>
+
+  <text x="24" y="130" class="line" style="animation-delay:1.3s"><tspan class="user">raef@orpheus</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$</tspan> cat stack.yml</text>
+  <text x="24" y="156" class="line" style="animation-delay:1.8s"><tspan class="key">frontend:</tspan> [typescript, react, next.js, astro, svelte, tailwind]</text>
+  <text x="24" y="182" class="line" style="animation-delay:2.1s"><tspan class="key">backend: </tspan> [supabase, postgres, node, bun, go, graphql]</text>
+  <text x="24" y="208" class="line" style="animation-delay:2.4s"><tspan class="key">infra:   </tspan> [coolify, docker, cloudflare-workers, nginx, linux]</text>
+
+  <text x="24" y="242" class="line" style="animation-delay:3.0s"><tspan class="user">raef@orpheus</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$</tspan> ls ~/design</text>
+  <text x="24" y="268" class="line" style="animation-delay:3.5s"><tspan class="path">ui-ux/  design-systems/  audio-plugin-ui/  vst-gui/  motion/</tspan></text>
+
+  <text x="24" y="298" class="line" style="animation-delay:4.0s"><tspan class="user">raef@orpheus</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$</tspan> <tspan class="cursor">█</tspan></text>
+</svg>

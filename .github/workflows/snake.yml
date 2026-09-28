@@ -1,4 +1,4 @@
-name: Generate profile widgets
+name: Generate contribution snake
 
 on:
   schedule:
@@ -22,16 +22,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - run: mkdir site && cp -r dist/. profile-3d-contrib site/
-
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: site
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
