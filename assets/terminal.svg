@@ -7,12 +7,12 @@
     .accent { fill: #d2a8ff; }
     .key { fill: #ffa657; }
     .title { fill: #8b949e; font-size: 13px; }
-    .line { opacity: 0; animation: show 0.25s ease-out forwards; }
+    .line { animation: show 0.25s ease-out backwards; }
     .cursor { animation: blink 1s steps(1) infinite; }
     @keyframes show { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
     @keyframes blink { 50% { fill-opacity: 0; } }
     @media (prefers-reduced-motion: reduce) {
-      .line { opacity: 1; animation: none; }
+      .line { animation: none; }
       .cursor { animation: none; }
     }
   </style>
