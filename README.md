@@ -70,7 +70,7 @@ I'm a **full-stack developer & designer** who takes products from Figma to produ
 ### 📊 GitHub stats
 
 <p align="center">
-  <picture><img src="https://streak-stats.demolab.com?user=orpheus-ui&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" /></picture>
+  <picture><img src="https://raw.githubusercontent.com/orpheus-ui/orpheus-ui/output/streak.svg" alt="GitHub streak" /></picture>
 </p>
 
 ### 🐍 Contribution snake
